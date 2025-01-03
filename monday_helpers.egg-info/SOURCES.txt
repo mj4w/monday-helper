@@ -1,0 +1,10 @@
+LICENSE.TXT
+setup.py
+monday_helpers/__init__.py
+monday_helpers/graphql_queries.py
+monday_helpers/monday_api_client.py
+monday_helpers.egg-info/PKG-INFO
+monday_helpers.egg-info/SOURCES.txt
+monday_helpers.egg-info/dependency_links.txt
+monday_helpers.egg-info/requires.txt
+monday_helpers.egg-info/top_level.txt

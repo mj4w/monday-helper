@@ -1,5 +1,5 @@
 import requests
-from monday_helpers.graphql_queries import GraphQLQueries
+from monday_helper.graphql_queries import GraphQLQueries
 from typing import Dict, Any
 
 

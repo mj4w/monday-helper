@@ -8,8 +8,8 @@ with open(path.join(working_dir,'readme.md'), encoding='utf-8') as f:
     
     
 setup(
-    name='monday_helpers',
-    version='0.0.1',
+    name='monday_helper',
+    version='1.1.1',
     author='white_hat25',
     author_email='devmarcel30@gmail.com',
     description='Monday API',
